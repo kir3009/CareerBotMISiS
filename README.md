@@ -1,1 +1,1 @@
-# CareerBotMISiS
+CareerVKBot
